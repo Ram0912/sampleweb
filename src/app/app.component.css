@@ -1,0 +1,18 @@
+.subtittle{
+    display: flex;
+justify-content: flex-end;
+}
+
+.footer{
+    display: flex;
+    justify-content: left;
+    color: black;
+    
+}
+footer{
+    background-color: rgb(227, 229, 230) !important;
+}
+
+a:hover { 
+    text-decoration: none; 
+} 
